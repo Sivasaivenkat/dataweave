@@ -1,0 +1,14 @@
+[
+    {
+        "Id":1111,
+        "name":"siva",
+        "phno":6304776575,
+        "address":"guntur"
+    },
+    {
+        "Id":2222,
+        "name":"sai",
+        "phno":6304754675,
+        "address":"vijayavada"
+    }
+]
